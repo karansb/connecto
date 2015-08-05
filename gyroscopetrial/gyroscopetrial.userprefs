@@ -1,8 +1,9 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace />
-  <MonoDevelop.Ide.Workbench ActiveDocument="..\anothervrscene\Assets\headcontrol.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\camrefscript.cs">
     <Files>
-      <File FileName="..\anothervrscene\Assets\headcontrol.cs" Line="28" Column="23" />
+      <File FileName="Assets\scripts\dampscript.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\camrefscript.cs" Line="26" Column="38" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

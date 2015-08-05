@@ -10,7 +10,7 @@ public class camrefscript : MonoBehaviour {
 	//end of gameobject declaration
 	//declaration of variables required for the script
 	Quaternion temprotation;//this is used to store the initial rotation of the camera
-	float gyrocountdown=3.5f;//the gyro input should be enabled after 3.5 seconds
+	float gyrocountdown=1.52f;//the gyro input should be enabled after 1.52 seconds
 	//end of variable declaration
 	void Start () {
 		//initialization of variables
@@ -23,7 +23,7 @@ public class camrefscript : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-		//check if it has already been 3.5 seconds
+		//check if it has already been 1.52 seconds
 		//if yes
 		if (gyrocountdown <= 0f) {
 			//check if there is an input and whether the camera is supposed to return to its initial rotation
