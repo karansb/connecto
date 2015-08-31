@@ -1,0 +1,62 @@
+Base path: C:/Program Files (x86)/Unity/Editor/Data
+Pipe name: \\.\pipe\UnityShaderCompiler-1-5132
+Cmd: getPlatforms
+Cmd: preprocess
+  insize=435 outsize=1181 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=4279 outsize=2607 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=4279 outsize=1242 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2255 outsize=2875 kw=POINT ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2255 outsize=1542 kw=POINT ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1783 outsize=1477 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1783 outsize=632 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3996 outsize=2883 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3996 outsize=1152 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2255 outsize=1851 kw=DIRECTIONAL ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2255 outsize=1128 kw=DIRECTIONAL ok=1
+Cmd: preprocess
+  insize=547 outsize=215 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=629 outsize=868 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=629 outsize=502 kw= ok=1
+Cmd: preprocess
+  insize=551 outsize=215 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (22): cannot implicitly convert from 'float3' to 'float4'
+  api=4 type=0 insize=633 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=563 outsize=213 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=645 outsize=908 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=645 outsize=502 kw= ok=1
+Cmd: preprocess
+  insize=563 outsize=215 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=645 outsize=908 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=645 outsize=502 kw= ok=1
+Cmd: preprocess
+  insize=563 outsize=215 ok=1
+Cmd: preprocess
+  insize=585 outsize=214 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=667 outsize=908 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=667 outsize=502 kw= ok=1
+Cmd: preprocess
+  insize=603 outsize=214 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=685 outsize=908 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=685 outsize=502 kw= ok=1
